@@ -1,7 +1,7 @@
 [project]
 name = "okr"
 version = "0.1.0"
-description = "Add your description here"
+description = "Lightweight Python tools to build, schedule, and visualize OKR timelines and Gantt charts — with holiday-aware workday estimation and customizable plotting via Matplotlib."
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
